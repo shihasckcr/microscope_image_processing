@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # microscope_image_processing
 =======
 Microscope Image Processing API
